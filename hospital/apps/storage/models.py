@@ -1,8 +1,8 @@
 from django.db import models
-from utils import basemodel
+from utils.basemodel import BaseModel
 # Create your models here.
 
-class Ruku_info(basemodel):
+class Ruku_info(BaseModel):
     """入库药品信息"""
     ruku_id = models.CharField(max_length=30,primary_key=True, verbose_name='入库id')
     ruku_time = models.CharField(max_length=30, verbose_name='入库时间')
@@ -12,3 +12,4 @@ class Ruku_info(basemodel):
     ruku_drugcount = models.IntegerField(default=0, verbose_name='入库药品数量')
     yruku = models.IntegerField(default=0, verbose_name='应入库药品数量')
     sruku = models.IntegerField(default=0, verbose_name='实入库药品数量')
+    hwh=models.CharField(verbose_name="货位号",max_length=50)

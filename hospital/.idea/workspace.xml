@@ -3,6 +3,73 @@
   <component name="ChangeListManager">
     <list default="true" id="01821cab-f17b-461b-8ccc-7ec5cac7005b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjust/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/adjust/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjust/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/adjust/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjust/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/adjust/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjust/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/adjust/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjust/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/adjust/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjust/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/adjust/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjust/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/adjust/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contract/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contract/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contract/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contract/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contract/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contract/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contract/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/damage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/damage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/damage/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/damage/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/damage/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/damage/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/damage/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/damage/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/damage/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/damage/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/damage/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/damage/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/damage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/damage/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/inventory/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/inventory/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/inventory/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/inventory/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/inventory/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/inventory/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/inventory/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/putout/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/putout/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/putout/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/putout/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/putout/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/putout/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/putout/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/putout/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/putout/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/putout/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/putout/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/putout/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/putout/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/putout/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/scrap/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/scrap/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/scrap/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/scrap/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/scrap/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/scrap/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrap/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/scrap/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/storage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/storage/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/storage/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/storage/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/storage/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/storage/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/storage/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/supplier/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/supplier/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/supplier/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/supplier/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/supplier/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/supplier/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/supplier/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/adjustprice.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/adjust/adjustprice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,34 +82,34 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
+          <entry key="html" value="5" />
           <entry key="js" value="1" />
-          <entry key="py" value="40" />
+          <entry key="py" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="5" />
           <entry key="JavaScript" value="1" />
-          <entry key="Python" value="40" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="99" />
-          <entry key="py" value="297" />
+          <entry key="py" value="439" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="99" />
-          <entry key="Python" value="297" />
+          <entry key="Python" value="439" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -50,14 +117,106 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hospital/urls.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/adjust/adjustprice.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/inventory/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/putout/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding>
-                <element signature="e#632#664#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/scrap/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/storage/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/supplier/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/user/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/damage/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/contract/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/adjust/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -68,6 +227,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -79,7 +239,6 @@
       <list>
         <option value="$PROJECT_DIR$/hospital/__init__.py" />
         <option value="$PROJECT_DIR$/hospital/settings.py" />
-        <option value="$PROJECT_DIR$/hospital/urls.py" />
         <option value="$PROJECT_DIR$/inventory/models.py" />
         <option value="$PROJECT_DIR$/adjust/models.py" />
         <option value="$PROJECT_DIR$/damage/models.py" />
@@ -90,6 +249,15 @@
         <option value="$PROJECT_DIR$/supplier/models.py" />
         <option value="$PROJECT_DIR$/user/models.py" />
         <option value="$PROJECT_DIR$/templates/head.html" />
+        <option value="$PROJECT_DIR$/hospital/urls.py" />
+        <option value="$PROJECT_DIR$/apps/user/models.py" />
+        <option value="$PROJECT_DIR$/apps/contract/models.py" />
+        <option value="$PROJECT_DIR$/apps/damage/models.py" />
+        <option value="$PROJECT_DIR$/apps/inventory/models.py" />
+        <option value="$PROJECT_DIR$/apps/putout/models.py" />
+        <option value="$PROJECT_DIR$/apps/scrap/models.py" />
+        <option value="$PROJECT_DIR$/apps/storage/models.py" />
+        <option value="$PROJECT_DIR$/apps/supplier/models.py" />
       </list>
     </option>
   </component>
@@ -112,7 +280,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,15 +287,11 @@
               <item name="hospital" type="b2602c69:ProjectViewProjectNode" />
               <item name="hospital" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hospital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,6 +302,10 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qiku\Desktop\hiszhongji\hospital\templates\adjust" />
+      <recent name="C:\Users\qiku\Desktop\hiszhongji\hospital\apps" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\qiku\Desktop\hiszhongji\hospital" />
     </key>
@@ -195,9 +362,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -253,13 +419,6 @@
     <entry file="file://$PROJECT_DIR$/static/js/slide.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospital/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -270,73 +429,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/basemodel.py">
+    <entry file="file://$PROJECT_DIR$/hospital/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="572">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adjust/models.py">
+    <entry file="file://$PROJECT_DIR$/hospital/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contract/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/damage/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrap/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/supplier/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inventory/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/putout/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        <state relative-caret-position="296">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -347,15 +453,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/adjustprice.html">
+    <entry file="file://$PROJECT_DIR$/templates/adjust/adjustprice.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospital/urls.py">
+    <entry file="file://$PROJECT_DIR$/apps/adjust/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="120">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/basemodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/contract/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#632#664#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/damage/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/inventory/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/putout/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/scrap/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/storage/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/supplier/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>

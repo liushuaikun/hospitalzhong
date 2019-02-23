@@ -1,7 +1,7 @@
 from django.db import models
-from utils import basemodel
+from utils.basemodel import BaseModel
 # Create your models here.
-class drugsuppier(basemodel) :
+class drugsuppier(BaseModel) :
     suppierId=models.CharField(max_length=10,primary_key=True,verbose_name="供应商id")
     drugId=models.CharField(max_length=10,verbose_name="药品id")
     price=models.IntegerField(default=0,verbose_name="药品单价")

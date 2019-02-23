@@ -18,16 +18,16 @@ from django.urls import path,include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',include("user.urls")),
-    path('user/',include("user.urls")),
-    path('adjust/',include("adjust.urls")),
-    path('contract/', include("contract.urls")),
-    path('damage/', include("damage.urls")),
-    path('inventory/', include("inventory.urls")),
-    path('putout/', include("putout.urls")),
-    path('scrap/', include("scrap.urls")),
-    path('storage/', include("storage.urls")),
-    path('supplier/', include("supplier.urls")),
+    path('', include("apps.user.urls")),
+    path('user/', include("apps.user.urls")),
+    path('adjust/', include("apps.adjust.urls")),
+    path('contract/', include("apps.contract.urls")),
+    path('damage/', include("apps.damage.urls")),
+    path('inventory/', include("apps.inventory.urls")),
+    path('putout/', include("apps.putout.urls")),
+    path('scrap/', include("apps.scrap.urls")),
+    path('storage/', include("apps.storage.urls")),
+    path('supplier/', include("apps.supplier.urls")),
 
 
 ]

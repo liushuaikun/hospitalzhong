@@ -1,7 +1,7 @@
 from django.db import models
-
+from utils.basemodel import BaseModel
 # Create your models here.
-class Druglists(models.Model):
+class Druglists(BaseModel):
     drugid = models.CharField(primary_key=True, max_length=100, verbose_name='药品ID')
     name = models.CharField(max_length=50, verbose_name='药品名称')
     type = models.CharField(max_length=256, verbose_name='药品种类')
@@ -11,4 +11,4 @@ class Druglists(models.Model):
     spec = models.CharField(max_length=256, verbose_name='药品规格')
     drugnum = models.IntegerField(default=0, verbose_name='药品数量')
     export = models.IntegerField(default=0, verbose_name='日出库量')
-    address = models.CharField(max_length=256, verbose_name='药品位置')
+    hwh = models.CharField(verbose_name="货位号", max_length=50)

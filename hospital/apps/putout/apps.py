@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class PutoutConfig(AppConfig):
-    name = 'putout'
+    name = 'apps.putout'
